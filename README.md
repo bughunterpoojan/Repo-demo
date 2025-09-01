@@ -1,3 +1,3 @@
 # Repo-demo
 This is my first git repositry <br>
-Author - Poojan Kamani
+Author - Poojan Kamani(IITRAM)
